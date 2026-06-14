@@ -96,7 +96,7 @@ adds:
 | Auto-**lock on refund / chargeback** | ❌ | ✅ webhook revocation |
 | SDKs | Node · Electron · Python | + **Tauri / Rust**, signed-token server |
 
-**→ [Get the full KeyGate kit on Gumroad](https://freethinker75.gumroad.com/l/otwpuy)**
+**→ [Get the full KeyGate kit on Gumroad](https://apecollective.gumroad.com/l/otwpuy)**
 
 ## Why Gumroad's raw API isn't enough
 
