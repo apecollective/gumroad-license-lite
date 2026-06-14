@@ -1,0 +1,29 @@
+{
+  "name": "gumroad-license-lite",
+  "version": "0.1.0",
+  "description": "The smallest correct way to verify Gumroad license keys in a desktop app (Node, Electron, Python). Zero dependencies.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": ["src/index.js", "src/index.d.ts", "README.md", "LICENSE"],
+  "scripts": {
+    "example": "node examples/node.js"
+  },
+  "keywords": [
+    "gumroad",
+    "license",
+    "license-key",
+    "license-verification",
+    "software-licensing",
+    "licensing",
+    "electron",
+    "tauri",
+    "desktop-app",
+    "gumroad-api"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/apecollective/gumroad-license-lite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apecollective/gumroad-license-lite.git"
+  }
+}
